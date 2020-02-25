@@ -68,7 +68,7 @@
 主要技术  
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;`nodejs`，`anyproxy`  
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;利用 `anyproxy` 搭建代理服务器进行数据转发  
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;利用 `express` 框架搭建 web 日志服务器,日志不是按行记录而是 json 数据化
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;利用 `express` 框架搭建 web 日志服务器,日志不是按行记录而是 json 数据化  
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;职责：项目开发  
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;收获：了解`anyproxy`的使用
 
