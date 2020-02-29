@@ -6,9 +6,9 @@ markdown pdf 插件右键进行导出到同目录 pdf
 134-5066-3441 xujiehua@chinasie.com
 
 学士编号
-1070842017004520
+107084 2017004520
 学位编号
-107081201705004520
+107081 201705004520
 查询地址
 
 https://www.chsi.com.cn/xlcx/lscx/xlresult.do?rndid=j7oxfo59shl0sab5ktuizmcmejqo4fur
